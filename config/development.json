@@ -1,0 +1,6 @@
+{
+  "name": "vidly server (development)",
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}

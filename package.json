@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^16.1.7",
+    "config": "^3.2.4",
     "express": "^4.17.1",
     "helmet": "^3.21.2",
     "mongoose": "^5.7.7",
