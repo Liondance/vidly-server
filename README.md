@@ -1,8 +1,9 @@
-# vidly-client
+# vidly-server
 
-This is a Web client for a fictitious video rental application.
+Vidly-server is an node.js based server (express) for a fictitious video rental application.
+The corresponding vidly-client project is a React based Web client for the same application.
 
-It is part of an online course I highly recommend:
+These projects are part of an online course I highly recommend:
 
 - Instructor: Mosh Hamedani
 - https://codewithmosh.com/
