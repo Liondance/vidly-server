@@ -9,17 +9,17 @@
   "author": "Mosh",
   "license": "ISC",
   "dependencies": {
-    "@hapi/joi": "^16.1.7",
-    "config": "^3.2.4",
+    "@hapi/joi": "^17.1.1",
+    "config": "^3.3.1",
     "debug": "^4.1.1",
     "express": "^4.17.1",
-    "helmet": "^3.21.2",
-    "mongoose": "^5.7.7",
-    "morgan": "^1.9.1",
-    "pug": "^2.0.4",
-    "underscore": "^1.9.1"
+    "helmet": "^3.23.3",
+    "mongoose": "^5.9.25",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.0",
+    "underscore": "^1.10.2"
   },
   "devDependencies": {
-    "jshint": "^2.10.2"
+    "jshint": "^2.11.1"
   }
 }
